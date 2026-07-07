@@ -1,0 +1,217 @@
+subtaskID,datapointID,answer
+1,1,13.0
+2,1,0.05
+3,1491,2
+3,1493,3
+3,1495,3
+3,1497,5
+3,1499,8
+3,1501,3
+3,1503,5
+3,1505,6
+3,1507,9
+3,1509,5
+3,1511,7
+3,1513,2
+3,1515,6
+3,1517,3
+3,1519,6
+3,1521,7
+3,1523,1
+3,1525,2
+3,1527,1
+3,1529,5
+3,1531,10
+3,1533,3
+3,1535,5
+3,1537,4
+3,1539,2
+3,1541,4
+3,1543,2
+3,1545,6
+3,1547,1
+3,1549,3
+3,1551,4
+3,1553,10
+3,1555,3
+3,1557,2
+3,1559,0
+3,1561,4
+3,1563,6
+3,1565,6
+3,1567,3
+3,1569,9
+3,1571,2
+3,1573,4
+3,1575,7
+3,1577,2
+3,1579,4
+3,1581,2
+3,1583,3
+3,1585,4
+3,1587,4
+3,1589,2
+3,1591,3
+3,1593,2
+3,1595,2
+3,1597,5
+3,1599,4
+3,1601,9
+3,1603,4
+3,1605,5
+3,1607,2
+3,1609,8
+3,1611,1
+3,1613,5
+3,1615,4
+3,1617,5
+3,1619,0
+3,1621,3
+3,1623,8
+3,1625,4
+3,1627,5
+3,1629,9
+3,1631,3
+3,1633,5
+3,1635,7
+3,1637,7
+3,1639,6
+3,1641,1
+3,1643,4
+3,1645,4
+3,1647,3
+3,1649,3
+3,1651,7
+3,1653,10
+3,1655,4
+3,1657,2
+3,1659,7
+3,1661,10
+3,1663,3
+3,1665,6
+3,1667,8
+3,1669,7
+3,1671,11
+3,1673,4
+3,1675,5
+3,1677,7
+3,1679,2
+3,1681,4
+3,1683,8
+3,1685,5
+3,1687,9
+3,1689,4
+3,1691,8
+3,1693,8
+3,1695,1
+3,1697,2
+3,1699,6
+3,1701,2
+3,1703,6
+4,1491,graiul moldovenesc
+4,1493,româna standard
+4,1495,româna standard
+4,1497,graiul moldovenesc
+4,1499,graiul moldovenesc
+4,1501,româna standard
+4,1503,româna standard
+4,1505,graiul moldovenesc
+4,1507,graiul bănățean
+4,1509,româna standard
+4,1511,graiul moldovenesc
+4,1513,graiul moldovenesc
+4,1515,româna standard
+4,1517,graiul moldovenesc
+4,1519,graiul moldovenesc
+4,1521,graiul moldovenesc
+4,1523,româna standard
+4,1525,româna standard
+4,1527,româna standard
+4,1529,graiul moldovenesc
+4,1531,graiul moldovenesc
+4,1533,graiul moldovenesc
+4,1535,româna standard
+4,1537,graiul moldovenesc
+4,1539,româna standard
+4,1541,româna standard
+4,1543,româna standard
+4,1545,graiul moldovenesc
+4,1547,româna standard
+4,1549,româna standard
+4,1551,româna standard
+4,1553,graiul moldovenesc
+4,1555,graiul moldovenesc
+4,1557,româna standard
+4,1559,româna standard
+4,1561,româna standard
+4,1563,graiul moldovenesc
+4,1565,graiul moldovenesc
+4,1567,graiul moldovenesc
+4,1569,graiul bănățean
+4,1571,graiul moldovenesc
+4,1573,graiul moldovenesc
+4,1575,graiul bănățean
+4,1577,româna standard
+4,1579,graiul moldovenesc
+4,1581,româna standard
+4,1583,româna standard
+4,1585,graiul moldovenesc
+4,1587,graiul moldovenesc
+4,1589,graiul moldovenesc
+4,1591,graiul moldovenesc
+4,1593,româna standard
+4,1595,româna standard
+4,1597,graiul moldovenesc
+4,1599,româna standard
+4,1601,graiul bănățean
+4,1603,graiul moldovenesc
+4,1605,graiul moldovenesc
+4,1607,româna standard
+4,1609,româna standard
+4,1611,româna standard
+4,1613,româna standard
+4,1615,româna standard
+4,1617,graiul moldovenesc
+4,1619,româna standard
+4,1621,româna standard
+4,1623,graiul moldovenesc
+4,1625,graiul moldovenesc
+4,1627,graiul moldovenesc
+4,1629,graiul moldovenesc
+4,1631,româna standard
+4,1633,graiul moldovenesc
+4,1635,graiul bănățean
+4,1637,graiul bănățean
+4,1639,graiul bănățean
+4,1641,româna standard
+4,1643,graiul moldovenesc
+4,1645,graiul moldovenesc
+4,1647,româna standard
+4,1649,graiul moldovenesc
+4,1651,graiul bănățean
+4,1653,graiul bănățean
+4,1655,graiul moldovenesc
+4,1657,româna standard
+4,1659,graiul moldovenesc
+4,1661,graiul bănățean
+4,1663,graiul bănățean
+4,1665,graiul moldovenesc
+4,1667,graiul bănățean
+4,1669,graiul moldovenesc
+4,1671,graiul bănățean
+4,1673,româna standard
+4,1675,graiul bănățean
+4,1677,graiul moldovenesc
+4,1679,graiul moldovenesc
+4,1681,graiul moldovenesc
+4,1683,graiul bănățean
+4,1685,româna standard
+4,1687,graiul bănățean
+4,1689,graiul moldovenesc
+4,1691,graiul bănățean
+4,1693,graiul bănățean
+4,1695,româna standard
+4,1697,româna standard
+4,1699,graiul bănățean
+4,1701,româna standard
+4,1703,graiul moldovenesc
